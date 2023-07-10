@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @Https404PaigeNotFound
-- 👨‍💻 I work as a psychology technician
-- 👀 I’m interested in intersection of psychology and technology 
-- 🌱 I’m currently learning a variety of lanuages including, R, Python, C#, C++.
-- 💞️ I’m looking to collaborate on projects that incorporate psychology into technology.
+- 👨‍💻 Psychology technician
 - 📫 How to reach me: c.p.metcalfe@salford.ac.uk
 
 <!---
