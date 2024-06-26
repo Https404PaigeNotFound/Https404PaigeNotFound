@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Https404PaigeNotFound
-- 👨‍💻 Psychology technician
+- 👨‍💻 Technician Specialist in Psychology
 - 📫 How to reach me: c.p.metcalfe@salford.ac.uk
 
 <!---
