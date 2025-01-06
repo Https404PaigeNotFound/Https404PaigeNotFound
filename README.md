@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Https404PaigeNotFound
-- 👨‍💻 Technician Specialist in Psychology
-- 📫 How to reach me: c.p.metcalfe@salford.ac.uk
+- 👨‍💻 Senior Technician Specialist in Robotics 
 
 <!---
 Https404PaigeNotFound/Https404PaigeNotFound is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
